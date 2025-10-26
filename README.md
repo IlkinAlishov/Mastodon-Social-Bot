@@ -100,7 +100,7 @@ PYTHONPATH=src pytest tests/
 
 If you have ideas for new features, better prompts, or cleaner code, feel free to submit a **Pull Request** or open an **Issue**\!
 
-````
+
 
 ***
 
@@ -116,4 +116,3 @@ If you have ideas for new features, better prompts, or cleaner code, feel free t
 | `[![License]...](...)` | **`[![...](...)] (URL)`** | This is a **Link** using an **Image** (the shield badge) as its content. The shield images add the interactive look. |
 | `` `cp .env.example .env` `` | **` \`...\` `** | Creates an **Inline Code Block**, used for short file names or commands. |
 | ` ```bash \n git clone... \n ``` ` | **` ``` `** | Creates a **Fenced Code Block** for multi-line code. The word `bash` enables syntax highlighting. |
-````
