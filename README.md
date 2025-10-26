@@ -1,6 +1,3 @@
-## Source Code of the Formatted README
-
-````markdown
 # 🤖 AI Trend Bot: Sarcasm on Demand
 
 Posts daily creative and sarcastic updates based on the hottest trending topics fetched from the Mastodon network. Built with Python and OpenAI.
