@@ -1,9 +1,3 @@
-Certainly. You want to see the **raw Markdown notation** applied to the interactive `README.md` content so you can understand which characters produce which formatting effect.
-
-Here is the source code for the previous `README.md`, with explanations of the key formatting notations used.
-
------
-
 ## Source Code of the Formatted README
 
 ````markdown
