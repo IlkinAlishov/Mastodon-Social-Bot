@@ -96,21 +96,3 @@ PYTHONPATH=src pytest tests/
 If you have ideas for new features, better prompts, or cleaner code, feel free to submit a **Pull Request** or open an **Issue**!
 
 ---
-
-## Key Notations Explained
-
-| Line Example                  | Notation Used              | Explanation                                                                                       |
-| ----------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------- |
-| `# 🤖 AI Trend Bot...`        | **`#`**                    | Creates a **Level 1 Heading** (the main title).                                                   |
-| `## ✨ Features`               | **`##`**                   | Creates a **Level 2 Subheading** (used for sections).                                             |
-| `---`                         | **`---`**                  | Creates a **Horizontal Rule**, a visual separator.                                                |
-| `* **Daily Post Limiting**:`  | **`*`** and **`**...**`**  | Creates an **Unordered List** item, with the text inside double asterisks rendered as **bold**.   |
-| `1. **Clone the Repository**` | **`1.`** and **`**...**`** | Creates an **Ordered (Numbered) List** item, with the text rendered as **bold**.                  |
-| `[![License]...](...)`        | **`[![...](...)] (URL)`**  | This is a **Link** using an **Image** (the shield badge) as its content.                          |
-| `` `cp .env.example .env` ``  | **`` `...` ``**            | Creates an **Inline Code Block**, used for short file names or commands.                          |
-| `bash \n git clone... \n `    | **```**                    | Creates a **Fenced Code Block** for multi-line code. The word `bash` enables syntax highlighting. |
-
-```
-
-This structure ensures that the README file looks professional and easy to follow, perfect for GitHub projects.
-```
